@@ -16,7 +16,7 @@ export default function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-accent-primary to-accent-secondary">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
               </div>
-              <span className="text-lg font-bold text-text-primary">Samy<span className="text-accent-primary">Joe</span></span>
+              <span className="text-lg font-bold text-text-primary">Schedly<span className="text-accent-primary">AI</span></span>
             </a>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-text-muted">
               AI-powered scheduling that gives you back the time you deserve.

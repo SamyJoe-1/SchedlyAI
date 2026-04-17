@@ -11,7 +11,7 @@ export default function Navbar() {
               </svg>
             </div>
             <span className="text-xl font-bold tracking-tight text-text-primary">
-              Samy<span className="text-accent-primary">Joe</span>
+              Schedly<span className="text-accent-primary">AI</span>
             </span>
           </a>
 
